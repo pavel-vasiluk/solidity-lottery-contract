@@ -4,7 +4,7 @@
 
 **Prerequisites**: you will need Node.js in order to set up the project.
 
-1. Checkout code from git - `git clone https://github.com/pavel-vasiluk/verification-system.git`
+1. Checkout code from git - `git clone https://github.com/pavel-vasiluk/solidity-lottery-contract.git`
 2. Run `npm install` to install project packages
 3. Then proceed to https://infura.io/ in order to create Ethereum rinkeby network endpoint (used for testnet deployments)
 4. Then proceed with Metamask setup: add metamask extension to google chrome, copy mnemonic (secret recovery phrase), switch account to rinkeby network, and populate it with some ETH amount (e.g. 0.05 ETH)
